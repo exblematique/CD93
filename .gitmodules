@@ -1,0 +1,3 @@
+[submodule "dataleak_extract/noms-de-domaine-organismes-publics"]
+	path = dataleak_extract/noms-de-domaine-organismes-publics
+	url = https://github.com/etalab/noms-de-domaine-organismes-publics
